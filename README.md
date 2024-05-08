@@ -2,7 +2,7 @@ DEMO: https://gart.ssenick.fun/
 
 ![Screenshot](https://github.com/ssenick/GART/blob/master/Desktop.png)
 
-# Project Description
+# Project Description:
 
 This project is a single-page website created using the following technologies and libraries:
 
